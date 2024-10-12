@@ -1,0 +1,4 @@
+amount_of_homework_completed = 12
+number_of_hours_spent = 1.5
+course_name = 'Python'
+print('Курс: ', course_name, ', ',  'Всего задач: ', amount_of_homework_completed, ', ', 'Затрачено часов: ', number_of_hours_spent, 'Время выполнеия: ', number_of_hours_spent / amount_of_homework_completed, '.', sep = '')
